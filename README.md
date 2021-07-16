@@ -101,7 +101,7 @@ Define your layout, how your webpage looks like
 1. Clone this repository into a new project folder (replace `[project name]` with your project's name)
 
    ```
-   git clone  [project name]
+   git clone git@github.com:hnsreeny/sass-structure-template.git [project name]
    ```
 
 1. Delete the boilerplate's git history to ensure that the project history only includes your commits
